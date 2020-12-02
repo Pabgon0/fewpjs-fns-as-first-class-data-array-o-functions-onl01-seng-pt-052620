@@ -1,10 +1,10 @@
-function wakeDog() {
+function wakeDog(dogName, dogBreed) {
   console.log("Wake Byron the poodle");
 }
-function leashDog() {
+function leashDog(dogName, dogBreed) {
   console.log("Leash Byron the poodle");
 }
-function walkToPark() {
+function walkToPark(dogName, dogBreed) {
   console.log("Walk to the park with Byron the poodle");
 }
 function throwFrisbee() {
