@@ -8,7 +8,7 @@ function walkToPark() {
   console.log("Walk to the park with Byron the poodle");
 }
 function throwFrisbee() {
-  
+  console.log("Throw the frisbee for Byron the poodle");
 }
 function walkHome() {
   
