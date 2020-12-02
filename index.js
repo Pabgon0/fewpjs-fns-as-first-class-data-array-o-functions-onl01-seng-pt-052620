@@ -1,4 +1,4 @@
-function wakeDog(dogName, dogBreed) {
+let wakeDog = function wakeDog(dogName, dogBreed) {
   console.log(`Wake ${dogName} the ${dogBreed}`);
   return `Wake ${dogName} the ${dogBreed}`
 }
@@ -22,3 +22,5 @@ function unleashDog(dogName, dogBreed) {
   console.log(`Unleash ${dogName} the ${dogBreed}`);
   return `Unleash ${dogName} the ${dogBreed}`
 }
+
+let routine = 
